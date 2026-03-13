@@ -212,11 +212,28 @@ function Hero() {
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-2 border border-border text-slate-300 font-display font-semibold px-6 py-3 rounded-lg hover:border-accent/50 hover:text-accent transition-all duration-300"
+              
             >
+            
               GitHub
+              
+            </a>
+              <a
+              href="/public/cv.pdf.pdf"
+                  download="Youssef_Nabil_CV"
+
+              target="_blank"
+              rel="noreferrer"
+              className="inline-flex items-center gap-2 border border-border text-slate-300 font-display font-semibold px-6 py-3 rounded-lg hover:border-accent/50 hover:text-accent transition-all duration-300"
+              
+            >
+            
+                  Download CV ↓
+
+              
             </a>
           </div>
-
+                
           {/* Stats */}
           <div className="flex gap-8 mt-10 pt-8 border-t border-border">
             {[
