@@ -219,19 +219,12 @@ function Hero() {
               
             </a>
               <a
-              href="/public/cv.pdf"
-                  download="Youssef_Nabil_CV"
-
-              target="_blank"
-              rel="noreferrer"
-              className="inline-flex items-center gap-2 border border-border text-slate-300 font-display font-semibold px-6 py-3 rounded-lg hover:border-accent/50 hover:text-accent transition-all duration-300"
-              
-            >
-            
-                  Download CV ↓
-
-              
-            </a>
+        href="/cv.pdf"
+  download="youssef-nabil-cv"
+  className="inline-flex items-center gap-2 border border-accent text-accent font-display font-semibold px-6 py-3 rounded-lg hover:bg-accent hover:text-dark transition-all duration-300"
+>
+  Download CV ↓
+</a>
           </div>
                 
           {/* Stats */}
