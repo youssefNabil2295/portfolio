@@ -219,7 +219,7 @@ function Hero() {
               
             </a>
               <a
-              href="/public/cv.pdf.pdf"
+              href="/href=/cv.pdf"
                   download="Youssef_Nabil_CV"
 
               target="_blank"
